@@ -1,0 +1,21 @@
+body{
+    background:linear-gradient(black 0%, rgb(109, 239, 178) 100%);
+    color: white;
+    font-family: cursive;
+}
+
+p{
+    font-family: cursive;
+}
+
+.heading{
+    font-size: x-large;
+}
+
+b{
+    font-size: 15px;
+}
+
+label{
+    font-size: 15px;
+}
